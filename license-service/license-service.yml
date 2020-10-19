@@ -10,4 +10,4 @@ spring.datasource.testWhileIdle: "true"
 spring.datasource.validationQuery: "SELECT 1"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialect"
 
-my.message: "Hah, it's work 6"
+my.message: "{cipher}fddf4025eb61b579edd93e54ca2a2c56ae36e6fa3c57dd7e2d1e1ec20e88020555a6b920facae023614a934be5b24e5a"
