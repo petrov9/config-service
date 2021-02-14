@@ -15,8 +15,7 @@ tracer:
 #  database:
 #    driverClassName: "org.postgresql.Driver"
 
-my:
-  message: "Hah, it's work!!!"
+my.message: "Hah, it's work!!!"
 
 keycloak:
   realm: "microservices-example-realm"
